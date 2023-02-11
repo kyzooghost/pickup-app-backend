@@ -1,0 +1,177 @@
+[
+    {
+      "student_id": 0,
+      "class_id": 1,
+      "name": "Jack",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 1,
+      "class_id": 1,
+      "name": "Louis",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 2,
+      "class_id": 1,
+      "name": "Marcas",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 3,
+      "class_id": 1,
+      "name": "Mariana",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 4,
+      "class_id": 1,
+      "name": "Eric",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 5,
+      "class_id": 1,
+      "name": "Rose",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 6,
+      "class_id": 1,
+      "name": "Abdul",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 7,
+      "class_id": 1,
+      "name": "Oliver",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 8,
+      "class_id": 1,
+      "name": "Dimitris",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 9,
+      "class_id": 1,
+      "name": "Mai",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 10,
+      "class_id": 2,
+      "name": "Luzia",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 11,
+      "class_id": 2,
+      "name": "Nassim",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 12,
+      "class_id": 2,
+      "name": "Teresa",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 13,
+      "class_id": 2,
+      "name": "Priya",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 14,
+      "class_id": 2,
+      "name": "Linda",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 15,
+      "class_id": 2,
+      "name": "Kristian",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 16,
+      "class_id": 2,
+      "name": "Vikram",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 17,
+      "class_id": 2,
+      "name": "Ahmed",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 18,
+      "class_id": 2,
+      "name": "Iva",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 19,
+      "class_id": 2,
+      "name": "Sabina",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 20,
+      "class_id": 2,
+      "name": "Mina",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 21,
+      "class_id": 2,
+      "name": "Simone",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 22,
+      "class_id": 2,
+      "name": "Andrew",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 23,
+      "class_id": 2,
+      "name": "Harry",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    },
+    {
+      "student_id": 24,
+      "class_id": 2,
+      "name": "Isis",
+      "pick_up_vehicle": "",
+      "has_left_class": "false"
+    }
+  ]
